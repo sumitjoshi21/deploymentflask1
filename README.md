@@ -1,4 +1,4 @@
-# deploymentflask1
+# salary price prediction https://salarprediction.herokuapp.com/
 ## ML-Model-Flask-Deployment
 This is a demo project to elaborate how Machine Learn Models are deployed on production using Flask API
 
